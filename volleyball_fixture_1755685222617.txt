@@ -1,0 +1,75 @@
+🏐 Women's Volleyball Fixture
+==================================================
+Number of Teams: 6
+Total Rounds: 10
+==================================================
+
+Round 1 (First Half)
+------------------------------
+   FENERBAHÇE MEDICANA vs KUZEYBORU
+   ECZACIBAŞI DYNAVİT vs GALATASARAY DAIKIN
+   VAKIFBANK vs TÜRK HAVA YOLLARI
+------------------------------
+
+Round 2 (First Half)
+------------------------------
+   FENERBAHÇE MEDICANA vs ECZACIBAŞI DYNAVİT
+   VAKIFBANK vs KUZEYBORU
+   TÜRK HAVA YOLLARI vs GALATASARAY DAIKIN
+------------------------------
+
+Round 3 (First Half)
+------------------------------
+   FENERBAHÇE MEDICANA vs VAKIFBANK
+   TÜRK HAVA YOLLARI vs ECZACIBAŞI DYNAVİT
+   GALATASARAY DAIKIN vs KUZEYBORU
+------------------------------
+
+Round 4 (First Half)
+------------------------------
+   FENERBAHÇE MEDICANA vs TÜRK HAVA YOLLARI
+   GALATASARAY DAIKIN vs VAKIFBANK
+   KUZEYBORU vs ECZACIBAŞI DYNAVİT
+------------------------------
+
+Round 5 (First Half)
+------------------------------
+   FENERBAHÇE MEDICANA vs GALATASARAY DAIKIN
+   KUZEYBORU vs TÜRK HAVA YOLLARI
+   ECZACIBAŞI DYNAVİT vs VAKIFBANK
+------------------------------
+
+Round 6 (Second Half)
+------------------------------
+   KUZEYBORU vs FENERBAHÇE MEDICANA
+   GALATASARAY DAIKIN vs ECZACIBAŞI DYNAVİT
+   TÜRK HAVA YOLLARI vs VAKIFBANK
+------------------------------
+
+Round 7 (Second Half)
+------------------------------
+   ECZACIBAŞI DYNAVİT vs FENERBAHÇE MEDICANA
+   KUZEYBORU vs VAKIFBANK
+   GALATASARAY DAIKIN vs TÜRK HAVA YOLLARI
+------------------------------
+
+Round 8 (Second Half)
+------------------------------
+   VAKIFBANK vs FENERBAHÇE MEDICANA
+   ECZACIBAŞI DYNAVİT vs TÜRK HAVA YOLLARI
+   KUZEYBORU vs GALATASARAY DAIKIN
+------------------------------
+
+Round 9 (Second Half)
+------------------------------
+   TÜRK HAVA YOLLARI vs FENERBAHÇE MEDICANA
+   VAKIFBANK vs GALATASARAY DAIKIN
+   ECZACIBAŞI DYNAVİT vs KUZEYBORU
+------------------------------
+
+Round 10 (Second Half)
+------------------------------
+   GALATASARAY DAIKIN vs FENERBAHÇE MEDICANA
+   TÜRK HAVA YOLLARI vs KUZEYBORU
+   VAKIFBANK vs ECZACIBAŞI DYNAVİT
+------------------------------
